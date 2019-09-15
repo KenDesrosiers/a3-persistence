@@ -6,7 +6,7 @@ For this project, I built on what I did for project 2 and made my game a whol lo
 
 ## Technical Achievements
 - **jsonwebtoken**: I used this module in order to take a payload and create a jwt out of it for authentication.
-- **Tech Achievement 2**: I changed the entire functionality of my game from drag/drop to key presses using javascript events.
+- **Javascript events**: I changed the entire functionality of my game from drag/drop to key presses using javascript events.
 
 ### Design/Evaluation Achievements
 - **level of difficulty**: I used nes.css radio buttons and a modal in order to allow the user to select what level of difficulty they want to play the game at.
