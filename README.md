@@ -1,8 +1,3 @@
-`a3-gitname-firstname-lastname`.
-
-Sample Readme (delete the above when you're ready to submit, and modify the below so with your links and descriptions)
----
-
 ## Ken's Ice Cream Shop (Ver. 2)
 
 http://a3-kendesrosiers.glitch.me
